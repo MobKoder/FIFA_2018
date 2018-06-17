@@ -1,0 +1,218 @@
+<table class="sortable wikitable plainrowheaders jquery-tablesorter" style="font-size:100%; width: 98%">
+<thead><tr>
+<th scope="col" style="width:4%" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending"><abbr title="number">No.</abbr></th>
+<th scope="col" style="width:4%" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending"><abbr title="position">Pos.</abbr></th>
+<th scope="col" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Player</th>
+<th scope="col" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Date of birth (age)</th>
+<th scope="col" style="width:7%" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Caps</th>
+<th scope="col" style="width:7%" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Goals</th>
+<th scope="col" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Club</th>
+</tr></thead><tbody>
+<tr>
+<td style="text-align:center; border:0">1</td>
+<td style="text-align:center; border:0"><span style="display:none">1</span><a href="/wiki/Goalkeeper_(association_football)" title="Goalkeeper (association football)">GK</a></td>
+<th data-sort-value="Elhadary, Essam" scope="row" style="border:0; background-color:inherit"><a href="/wiki/Essam_El-Hadary" title="Essam El-Hadary">Essam El-Hadary</a> <small><i>(<a href="/wiki/Captain_(association_football)" title="Captain (association football)">captain</a>)</i></small></th>
+<td style="border:0"><span style="display:none">(<span class="bday">1973-01-15</span>)</span>15 January 1973 (aged 45)</td>
+<td style="text-align:center; border:0">158</td>
+<td style="text-align:center; border:0">0</td>
+<td style="border:0"><span class="flagicon"><a href="/wiki/Saudi_Arabia" title="Saudi Arabia"><img alt="Saudi Arabia" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/23px-Flag_of_Saudi_Arabia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/35px-Flag_of_Saudi_Arabia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/45px-Flag_of_Saudi_Arabia.svg.png 2x" data-file-width="750" data-file-height="500"></a></span> <a href="/wiki/Al-Taawoun_FC" title="Al-Taawoun FC">Al-Taawoun</a></td>
+</tr>
+<tr>
+<td style="text-align:center; border:0">2</td>
+<td style="text-align:center; border:0"><span style="display:none">2</span><a href="/wiki/Defender_(association_football)" title="Defender (association football)">DF</a></td>
+<th data-sort-value="Gabr, Ali" scope="row" style="border:0; background-color:inherit"><a href="/wiki/Ali_Gabr" title="Ali Gabr">Ali Gabr</a></th>
+<td style="border:0"><span style="display:none">(<span class="bday">1989-01-01</span>)</span>1 January 1989 (aged 29)</td>
+<td style="text-align:center; border:0">21</td>
+<td style="text-align:center; border:0">1</td>
+<td style="border:0"><span class="flagicon"><a href="/wiki/England" title="England"><img alt="England" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/35px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/46px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480"></a></span> <a href="/wiki/West_Bromwich_Albion_F.C." title="West Bromwich Albion F.C.">West Bromwich Albion</a></td>
+</tr>
+<tr>
+<td style="text-align:center; border:0">3</td>
+<td style="text-align:center; border:0"><span style="display:none">2</span><a href="/wiki/Defender_(association_football)" title="Defender (association football)">DF</a></td>
+<th data-sort-value="Elmohamady, Ahmed" scope="row" style="border:0; background-color:inherit"><a href="/wiki/Ahmed_Elmohamady" title="Ahmed Elmohamady">Ahmed Elmohamady</a></th>
+<td style="border:0"><span style="display:none">(<span class="bday">1987-09-09</span>)</span>9 September 1987 (aged 30)</td>
+<td style="text-align:center; border:0">78</td>
+<td style="text-align:center; border:0">2</td>
+<td style="border:0"><span class="flagicon"><a href="/wiki/England" title="England"><img alt="England" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/35px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/46px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480"></a></span> <a href="/wiki/Aston_Villa_F.C." title="Aston Villa F.C.">Aston Villa</a></td>
+</tr>
+<tr>
+<td style="text-align:center; border:0">4</td>
+<td style="text-align:center; border:0"><span style="display:none">3</span><a href="/wiki/Midfielder" title="Midfielder">MF</a></td>
+<th data-sort-value="Gaber, Omar" scope="row" style="border:0; background-color:inherit"><a href="/wiki/Omar_Gaber" title="Omar Gaber">Omar Gaber</a></th>
+<td style="border:0"><span style="display:none">(<span class="bday">1992-01-30</span>)</span>30 January 1992 (aged 26)</td>
+<td style="text-align:center; border:0">24</td>
+<td style="text-align:center; border:0">0</td>
+<td style="border:0"><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650"></a></span> <a href="/wiki/Los_Angeles_FC" title="Los Angeles FC">Los Angeles FC</a></td>
+</tr>
+<tr>
+<td style="text-align:center; border:0">5</td>
+<td style="text-align:center; border:0"><span style="display:none">3</span><a href="/wiki/Midfielder" title="Midfielder">MF</a></td>
+<th data-sort-value="Morsy, Sam" scope="row" style="border:0; background-color:inherit"><a href="/wiki/Sam_Morsy" title="Sam Morsy">Sam Morsy</a></th>
+<td style="border:0"><span style="display:none">(<span class="bday">1991-09-10</span>)</span>10 September 1991 (aged 26)</td>
+<td style="text-align:center; border:0">5</td>
+<td style="text-align:center; border:0">0</td>
+<td style="border:0"><span class="flagicon"><a href="/wiki/England" title="England"><img alt="England" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/35px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/46px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480"></a></span> <a href="/wiki/Wigan_Athletic_F.C." title="Wigan Athletic F.C.">Wigan Athletic</a></td>
+</tr>
+<tr>
+<td style="text-align:center; border:0">6</td>
+<td style="text-align:center; border:0"><span style="display:none">2</span><a href="/wiki/Defender_(association_football)" title="Defender (association football)">DF</a></td>
+<th data-sort-value="Hegazi, Ahmed" scope="row" style="border:0; background-color:inherit"><a href="/wiki/Ahmed_Hegazi_(footballer)" title="Ahmed Hegazi (footballer)">Ahmed Hegazi</a></th>
+<td style="border:0"><span style="display:none">(<span class="bday">1991-01-25</span>)</span>25 January 1991 (aged 27)</td>
+<td style="text-align:center; border:0">45</td>
+<td style="text-align:center; border:0">1</td>
+<td style="border:0"><span class="flagicon"><a href="/wiki/England" title="England"><img alt="England" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/35px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/46px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480"></a></span> <a href="/wiki/West_Bromwich_Albion_F.C." title="West Bromwich Albion F.C.">West Bromwich Albion</a></td>
+</tr>
+<tr>
+<td style="text-align:center; border:0">7</td>
+<td style="text-align:center; border:0"><span style="display:none">2</span><a href="/wiki/Defender_(association_football)" title="Defender (association football)">DF</a></td>
+<th data-sort-value="Fathy, Ahmed" scope="row" style="border:0; background-color:inherit"><a href="/wiki/Ahmed_Fathy" title="Ahmed Fathy">Ahmed Fathy</a></th>
+<td style="border:0"><span style="display:none">(<span class="bday">1984-11-10</span>)</span>10 November 1984 (aged 33)</td>
+<td style="text-align:center; border:0">126</td>
+<td style="text-align:center; border:0">3</td>
+<td style="border:0"><span class="flagicon"><a href="/wiki/Egypt" title="Egypt"><img alt="Egypt" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/23px-Flag_of_Egypt.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/35px-Flag_of_Egypt.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/45px-Flag_of_Egypt.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <a href="/wiki/Al_Ahly_SC" title="Al Ahly SC">Al Ahly</a></td>
+</tr>
+<tr>
+<td style="text-align:center; border:0">8</td>
+<td style="text-align:center; border:0"><span style="display:none">3</span><a href="/wiki/Midfielder" title="Midfielder">MF</a></td>
+<th data-sort-value="Hamed, Tarek" scope="row" style="border:0; background-color:inherit"><a href="/wiki/Tarek_Hamed" title="Tarek Hamed">Tarek Hamed</a></th>
+<td style="border:0"><span style="display:none">(<span class="bday">1988-10-24</span>)</span>24 October 1988 (aged 29)</td>
+<td style="text-align:center; border:0">21</td>
+<td style="text-align:center; border:0">0</td>
+<td style="border:0"><span class="flagicon"><a href="/wiki/Egypt" title="Egypt"><img alt="Egypt" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/23px-Flag_of_Egypt.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/35px-Flag_of_Egypt.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/45px-Flag_of_Egypt.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <a href="/wiki/Zamalek_SC" title="Zamalek SC">Zamalek</a></td>
+</tr>
+<tr>
+<td style="text-align:center; border:0">9</td>
+<td style="text-align:center; border:0"><span style="display:none">4</span><a href="/wiki/Forward_(association_football)" title="Forward (association football)">FW</a></td>
+<th data-sort-value="Mohsen, Marwan" scope="row" style="border:0; background-color:inherit"><a href="/wiki/Marwan_Mohsen" title="Marwan Mohsen">Marwan Mohsen</a></th>
+<td style="border:0"><span style="display:none">(<span class="bday">1989-02-26</span>)</span>26 February 1989 (aged 29)</td>
+<td style="text-align:center; border:0">24</td>
+<td style="text-align:center; border:0">4</td>
+<td style="border:0"><span class="flagicon"><a href="/wiki/Egypt" title="Egypt"><img alt="Egypt" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/23px-Flag_of_Egypt.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/35px-Flag_of_Egypt.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/45px-Flag_of_Egypt.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <a href="/wiki/Al_Ahly_SC" title="Al Ahly SC">Al Ahly</a></td>
+</tr>
+<tr>
+<td style="text-align:center; border:0">10</td>
+<td style="text-align:center; border:0"><span style="display:none">4</span><a href="/wiki/Forward_(association_football)" title="Forward (association football)">FW</a></td>
+<th data-sort-value="Salah, Mohamed" scope="row" style="border:0; background-color:inherit"><a href="/wiki/Mohamed_Salah" title="Mohamed Salah">Mohamed Salah</a></th>
+<td style="border:0"><span style="display:none">(<span class="bday">1992-06-15</span>)</span>15 June 1992 (aged 25)</td>
+<td style="text-align:center; border:0">57</td>
+<td style="text-align:center; border:0">33</td>
+<td style="border:0"><span class="flagicon"><a href="/wiki/England" title="England"><img alt="England" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/35px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/46px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480"></a></span> <a href="/wiki/Liverpool_F.C." title="Liverpool F.C.">Liverpool</a></td>
+</tr>
+<tr>
+<td style="text-align:center; border:0">11</td>
+<td style="text-align:center; border:0"><span style="display:none">4</span><a href="/wiki/Forward_(association_football)" title="Forward (association football)">FW</a></td>
+<th data-sort-value="Kahraba" scope="row" style="border:0; background-color:inherit"><a href="/wiki/Kahraba_(footballer)" title="Kahraba (footballer)">Kahraba</a></th>
+<td style="border:0"><span style="display:none">(<span class="bday">1994-04-13</span>)</span>13 April 1994 (aged 24)</td>
+<td style="text-align:center; border:0">19</td>
+<td style="text-align:center; border:0">3</td>
+<td style="border:0"><span class="flagicon"><a href="/wiki/Saudi_Arabia" title="Saudi Arabia"><img alt="Saudi Arabia" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/23px-Flag_of_Saudi_Arabia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/35px-Flag_of_Saudi_Arabia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/45px-Flag_of_Saudi_Arabia.svg.png 2x" data-file-width="750" data-file-height="500"></a></span> <a href="/wiki/Al-Ittihad_Club_(Jeddah)" title="Al-Ittihad Club (Jeddah)">Al-Ittihad</a></td>
+</tr>
+<tr>
+<td style="text-align:center; border:0">12</td>
+<td style="text-align:center; border:0"><span style="display:none">2</span><a href="/wiki/Defender_(association_football)" title="Defender (association football)">DF</a></td>
+<th data-sort-value="Ashraf, Ayman" scope="row" style="border:0; background-color:inherit"><a href="/wiki/Ayman_Ashraf" title="Ayman Ashraf">Ayman Ashraf</a></th>
+<td style="border:0"><span style="display:none">(<span class="bday">1991-04-09</span>)</span>9 April 1991 (aged 27)</td>
+<td style="text-align:center; border:0">4</td>
+<td style="text-align:center; border:0">0</td>
+<td style="border:0"><span class="flagicon"><a href="/wiki/Egypt" title="Egypt"><img alt="Egypt" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/23px-Flag_of_Egypt.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/35px-Flag_of_Egypt.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/45px-Flag_of_Egypt.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <a href="/wiki/Al_Ahly_SC" title="Al Ahly SC">Al Ahly</a></td>
+</tr>
+<tr>
+<td style="text-align:center; border:0">13</td>
+<td style="text-align:center; border:0"><span style="display:none">2</span><a href="/wiki/Defender_(association_football)" title="Defender (association football)">DF</a></td>
+<th data-sort-value="Abdelshafy, Mohamed" scope="row" style="border:0; background-color:inherit"><a href="/wiki/Mohamed_Abdel-Shafy" title="Mohamed Abdel-Shafy">Mohamed Abdel-Shafy</a></th>
+<td style="border:0"><span style="display:none">(<span class="bday">1985-07-01</span>)</span>1 July 1985 (aged 32)</td>
+<td style="text-align:center; border:0">51</td>
+<td style="text-align:center; border:0">1</td>
+<td style="border:0"><span class="flagicon"><a href="/wiki/Saudi_Arabia" title="Saudi Arabia"><img alt="Saudi Arabia" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/23px-Flag_of_Saudi_Arabia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/35px-Flag_of_Saudi_Arabia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/45px-Flag_of_Saudi_Arabia.svg.png 2x" data-file-width="750" data-file-height="500"></a></span> <a href="/wiki/Al-Fateh_SC" title="Al-Fateh SC">Al-Fateh</a></td>
+</tr>
+<tr>
+<td style="text-align:center; border:0">14</td>
+<td style="text-align:center; border:0"><span style="display:none">4</span><a href="/wiki/Forward_(association_football)" title="Forward (association football)">FW</a></td>
+<th data-sort-value="Sobhi, Ramadan" scope="row" style="border:0; background-color:inherit"><a href="/wiki/Ramadan_Sobhi" title="Ramadan Sobhi">Ramadan Sobhi</a></th>
+<td style="border:0"><span style="display:none">(<span class="bday">1997-01-23</span>)</span>23 January 1997 (aged 21)</td>
+<td style="text-align:center; border:0">23</td>
+<td style="text-align:center; border:0">1</td>
+<td style="border:0"><span class="flagicon"><a href="/wiki/England" title="England"><img alt="England" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/35px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/46px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480"></a></span> <a href="/wiki/Stoke_City_F.C." title="Stoke City F.C.">Stoke City</a></td>
+</tr>
+<tr>
+<td style="text-align:center; border:0">15</td>
+<td style="text-align:center; border:0"><span style="display:none">2</span><a href="/wiki/Defender_(association_football)" title="Defender (association football)">DF</a></td>
+<th data-sort-value="Hamdy, Mahmoud" scope="row" style="border:0; background-color:inherit"><a href="/wiki/Mahmoud_Hamdy" title="Mahmoud Hamdy">Mahmoud Hamdy</a></th>
+<td style="border:0"><span style="display:none">(<span class="bday">1995-06-01</span>)</span>1 June 1995 (aged 23)</td>
+<td style="text-align:center; border:0">0</td>
+<td style="text-align:center; border:0">0</td>
+<td style="border:0"><span class="flagicon"><a href="/wiki/Egypt" title="Egypt"><img alt="Egypt" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/23px-Flag_of_Egypt.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/35px-Flag_of_Egypt.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/45px-Flag_of_Egypt.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <a href="/wiki/Zamalek_SC" title="Zamalek SC">Zamalek</a></td>
+</tr>
+<tr>
+<td style="text-align:center; border:0">16</td>
+<td style="text-align:center; border:0"><span style="display:none">1</span><a href="/wiki/Goalkeeper_(association_football)" title="Goalkeeper (association football)">GK</a></td>
+<th data-sort-value="Ekramy, Sherif" scope="row" style="border:0; background-color:inherit"><a href="/wiki/Sherif_Ekramy" title="Sherif Ekramy">Sherif Ekramy</a></th>
+<td style="border:0"><span style="display:none">(<span class="bday">1983-07-10</span>)</span>10 July 1983 (aged 34)</td>
+<td style="text-align:center; border:0">22</td>
+<td style="text-align:center; border:0">0</td>
+<td style="border:0"><span class="flagicon"><a href="/wiki/Egypt" title="Egypt"><img alt="Egypt" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/23px-Flag_of_Egypt.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/35px-Flag_of_Egypt.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/45px-Flag_of_Egypt.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <a href="/wiki/Al_Ahly_SC" title="Al Ahly SC">Al Ahly</a></td>
+</tr>
+<tr>
+<td style="text-align:center; border:0">17</td>
+<td style="text-align:center; border:0"><span style="display:none">3</span><a href="/wiki/Midfielder" title="Midfielder">MF</a></td>
+<th data-sort-value="Elneny, Mohamed" scope="row" style="border:0; background-color:inherit"><a href="/wiki/Mohamed_Elneny" title="Mohamed Elneny">Mohamed Elneny</a></th>
+<td style="border:0"><span style="display:none">(<span class="bday">1992-07-11</span>)</span>11 July 1992 (aged 25)</td>
+<td style="text-align:center; border:0">61</td>
+<td style="text-align:center; border:0">5</td>
+<td style="border:0"><span class="flagicon"><a href="/wiki/England" title="England"><img alt="England" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/35px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/46px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480"></a></span> <a href="/wiki/Arsenal_F.C." title="Arsenal F.C.">Arsenal</a></td>
+</tr>
+<tr>
+<td style="text-align:center; border:0">18</td>
+<td style="text-align:center; border:0"><span style="display:none">4</span><a href="/wiki/Forward_(association_football)" title="Forward (association football)">FW</a></td>
+<th data-sort-value="Shikabala" scope="row" style="border:0; background-color:inherit"><a href="/wiki/Shikabala" title="Shikabala">Shikabala</a></th>
+<td style="border:0"><span style="display:none">(<span class="bday">1986-03-05</span>)</span>5 March 1986 (aged 32)</td>
+<td style="text-align:center; border:0">29</td>
+<td style="text-align:center; border:0">2</td>
+<td style="border:0"><span class="flagicon"><a href="/wiki/Saudi_Arabia" title="Saudi Arabia"><img alt="Saudi Arabia" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/23px-Flag_of_Saudi_Arabia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/35px-Flag_of_Saudi_Arabia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/45px-Flag_of_Saudi_Arabia.svg.png 2x" data-file-width="750" data-file-height="500"></a></span> <a href="/wiki/Al-Raed_FC" title="Al-Raed FC">Al-Raed</a></td>
+</tr>
+<tr>
+<td style="text-align:center; border:0">19</td>
+<td style="text-align:center; border:0"><span style="display:none">3</span><a href="/wiki/Midfielder" title="Midfielder">MF</a></td>
+<th data-sort-value="Said, Abdallah" scope="row" style="border:0; background-color:inherit"><a href="/wiki/Abdallah_Said" title="Abdallah Said">Abdallah Said</a></th>
+<td style="border:0"><span style="display:none">(<span class="bday">1985-07-13</span>)</span>13 July 1985 (aged 32)</td>
+<td style="text-align:center; border:0">36</td>
+<td style="text-align:center; border:0">6</td>
+<td style="border:0"><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100"></a></span> <a href="/wiki/Kuopion_Palloseura" title="Kuopion Palloseura">KuPS</a></td>
+</tr>
+<tr>
+<td style="text-align:center; border:0">20</td>
+<td style="text-align:center; border:0"><span style="display:none">2</span><a href="/wiki/Defender_(association_football)" title="Defender (association football)">DF</a></td>
+<th data-sort-value="Samir, Saad" scope="row" style="border:0; background-color:inherit"><a href="/wiki/Saad_Samir" title="Saad Samir">Saad Samir</a></th>
+<td style="border:0"><span style="display:none">(<span class="bday">1989-04-01</span>)</span>1 April 1989 (aged 29)</td>
+<td style="text-align:center; border:0">11</td>
+<td style="text-align:center; border:0">0</td>
+<td style="border:0"><span class="flagicon"><a href="/wiki/Egypt" title="Egypt"><img alt="Egypt" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/23px-Flag_of_Egypt.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/35px-Flag_of_Egypt.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/45px-Flag_of_Egypt.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <a href="/wiki/Al_Ahly_SC" title="Al Ahly SC">Al Ahly</a></td>
+</tr>
+<tr>
+<td style="text-align:center; border:0">21</td>
+<td style="text-align:center; border:0"><span style="display:none">3</span><a href="/wiki/Midfielder" title="Midfielder">MF</a></td>
+<th data-sort-value="Trezeguet" scope="row" style="border:0; background-color:inherit"><a href="/wiki/Tr%C3%A9z%C3%A9guet_(Egyptian_footballer)" title="Trézéguet (Egyptian footballer)">Trézéguet</a></th>
+<td style="border:0"><span style="display:none">(<span class="bday">1994-10-01</span>)</span>1 October 1994 (aged 23)</td>
+<td style="text-align:center; border:0">24</td>
+<td style="text-align:center; border:0">2</td>
+<td style="border:0"><span class="flagicon"><a href="/wiki/Turkey" title="Turkey"><img alt="Turkey" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800"></a></span> <a href="/wiki/Kas%C4%B1mpa%C5%9Fa_S.K." title="Kasımpaşa S.K.">Kasımpaşa</a></td>
+</tr>
+<tr>
+<td style="text-align:center; border:0">22</td>
+<td style="text-align:center; border:0"><span style="display:none">4</span><a href="/wiki/Forward_(association_football)" title="Forward (association football)">FW</a></td>
+<th data-sort-value="Warda, Amr" scope="row" style="border:0; background-color:inherit"><a href="/wiki/Amr_Warda" title="Amr Warda">Amr Warda</a></th>
+<td style="border:0"><span style="display:none">(<span class="bday">1993-09-17</span>)</span>17 September 1993 (aged 24)</td>
+<td style="text-align:center; border:0">16</td>
+<td style="text-align:center; border:0">0</td>
+<td style="border:0"><span class="flagicon"><a href="/wiki/Greece" title="Greece"><img alt="Greece" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/23px-Flag_of_Greece.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/35px-Flag_of_Greece.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/45px-Flag_of_Greece.svg.png 2x" data-file-width="600" data-file-height="400"></a></span> <a href="/wiki/Atromitos_F.C." title="Atromitos F.C.">Atromitos</a></td>
+</tr>
+<tr>
+<td style="text-align:center; border:0">23</td>
+<td style="text-align:center; border:0"><span style="display:none">1</span><a href="/wiki/Goalkeeper_(association_football)" title="Goalkeeper (association football)">GK</a></td>
+<th data-sort-value="Elshenawy, Mohamed" scope="row" style="border:0; background-color:inherit"><a href="/wiki/Mohamed_El-Shenawy" title="Mohamed El-Shenawy">Mohamed El-Shenawy</a></th>
+<td style="border:0"><span style="display:none">(<span class="bday">1988-12-18</span>)</span>18 December 1988 (aged 29)</td>
+<td style="text-align:center; border:0">3</td>
+<td style="text-align:center; border:0">0</td>
+<td style="border:0"><span class="flagicon"><a href="/wiki/Egypt" title="Egypt"><img alt="Egypt" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/23px-Flag_of_Egypt.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/35px-Flag_of_Egypt.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/45px-Flag_of_Egypt.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <a href="/wiki/Al_Ahly_SC" title="Al Ahly SC">Al Ahly</a></td>
+</tr>
+</tbody><tfoot></tfoot></table>
